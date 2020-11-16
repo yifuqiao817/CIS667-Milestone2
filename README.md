@@ -1,7 +1,7 @@
 # CIS667-Milestone2
 Yifu Qiao, yqiao08, Syracuse University
 
-Just need to run yqiao08_Milestone2.py to start playing. 
+Just need to run yqiao08_Milestone2.py to start playing. Make sure that two codes are under the same folder. 
 
 I also did some changes in yqiao08_Milestone1.py so please do not use the previous version linked from milestone1 pdf file. 
 
